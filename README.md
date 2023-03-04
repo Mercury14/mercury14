@@ -1,6 +1,6 @@
 # Simon Bartlett's Public Github Profile
 
-
+Welcome to my public profile!
 <!--
 **Mercury14/mercury14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
